@@ -1,5 +1,5 @@
-const output = () => console.log('This is an output');
+const consoleOutput = () => console.log('This is an output');
 
 
-output();
+consoleOutput();
 
